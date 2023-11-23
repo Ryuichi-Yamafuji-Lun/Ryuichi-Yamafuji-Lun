@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;+I'm+Ryuichi+Yamafuji+Lun!;こんにちは+👋;山藤(ラン)龍一と申します;よろしくお願いします!" />
 </h1>
 
-<h3 align="center">An ambitious software engineer dedicated to making an impact</h3>
+<h3 align="center">An ambitious software engineer dedicated to making an impact.</h3>
 
 <br/>
 <div align="center"> 
