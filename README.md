@@ -7,14 +7,6 @@
 <h3 align="center">An ambitious software engineer dedicated to making an impact</h3>
 
 <br/>
-
-<div align="center">
- 
- I’m currently working on 2-Phase Locking with Starvation Freedom
- 
- I’m currently learning Artificial Intelligence & Machine Learning
- </div>
- 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ryulun/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
