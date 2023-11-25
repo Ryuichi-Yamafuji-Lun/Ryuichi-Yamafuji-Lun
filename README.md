@@ -4,8 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Robotos&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;I'm+Ryuichi+Yamafuji+Lun!;こんにちは!+👋;山藤(ラン)龍一と申します;よろしくお願いします!" />
 </h1>
 
-<h3 align="center">An ambitious software engineer dedicated to making an impact. </h3>
-<h2 align="center>Currently working on 2-Phase Locking with Starvation Freedom</h2>
+<h2 align="center">An ambitious software engineer dedicated to making an impact. </h3>
+<h3 align="center">Currently working on 2-Phase Locking with Starvation Freedom. </h2>
+
 <br/>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/ryulun/" target="_blank">
