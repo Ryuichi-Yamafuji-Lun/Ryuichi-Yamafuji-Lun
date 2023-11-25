@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ryulun/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Ryuichi-Yamafuji-Lun" target="_blank">
+  <a href="https://www.ryuichilun.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
