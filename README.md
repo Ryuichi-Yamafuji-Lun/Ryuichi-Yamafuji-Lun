@@ -21,7 +21,7 @@
 
  <hr/>
  
-<h2 align="center">Languages-Frameworks-Tools</h2>
+<h2 align="center">Languages/Frameworks/Tools</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,webflow" />
@@ -41,7 +41,7 @@
 
 <hr/>
 
-<h2 align="center">Stats</h2>
+<h2 align="center">Statistics</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.vercel.app/api?user=Ryuichi-Yamafuji-Lun&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
