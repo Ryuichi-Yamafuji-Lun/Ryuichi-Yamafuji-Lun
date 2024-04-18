@@ -6,7 +6,7 @@
 
 <h2 align="center">An ambitious software engineer dedicated to making an impact. </h3>
 <h3 align="center">Undergraduate researcher for the Data Platform Laboratory. </h2>
-<h3 align="center">Currently working on 2-Phase Locking with Starvation Freedom. </h2>
+<h3 align="center">Currently working on FafnirDT </h2>
 
 <br/>
 <div align="center"> 
