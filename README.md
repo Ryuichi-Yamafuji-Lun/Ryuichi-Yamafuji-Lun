@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center">An ambitious software engineer dedicated to making an impact. </h3>
-<h3 align="center">Undergraduate researcher for the Data Platform Laboratory. </h2>
+<h3 align="center">M.S in Computer Science(AI) at USC </h2>
 
 <br/>
 <div align="center"> 
