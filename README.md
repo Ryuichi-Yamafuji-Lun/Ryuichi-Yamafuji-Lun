@@ -19,7 +19,7 @@
 <h2 align="center">Languages/Frameworks/Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,webflow" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,docker" />
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,cpp,mysql,flask" /><br>
 </div>
 <br/><br/>
