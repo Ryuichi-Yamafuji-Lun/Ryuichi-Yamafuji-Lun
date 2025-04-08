@@ -22,8 +22,8 @@
 <h2 align="center">Languages/Frameworks/Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,docker" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,firebase,c,cpp,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,flask,spring,html,css,tailwind,git,docker" /><br>
 </div>
 <br/><br/>
 <hr/>
