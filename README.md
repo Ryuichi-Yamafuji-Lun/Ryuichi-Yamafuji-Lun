@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Robotos&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;I'm+Ryu!;こんにちは!+👋;ラン龍一と申します;よろしくお願いします!" />
 </h1>
 
-<h2 align="center">An ambitious software engineer dedicated to making an impact. </h3>
+<h2 align="center">A software engineer(Backend & AI) dedicated to making an impact. </h3>
 <h3 align="center">M.S in Computer Science(AI) at USC </h2>
 
 <br/>
