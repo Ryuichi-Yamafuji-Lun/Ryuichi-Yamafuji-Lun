@@ -1,30 +1,70 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ryuichi-Yamafuji-Lun.Ryuichi-Yamafuji-Lun" />
+<!-- Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ryuichi-Yamafuji-Lun.Ryuichi-Yamafuji-Lun" alt="Visitor Badge"/>
+</p>
 
+<!-- Typing Animation Intro -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Robotos&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+👋;I'm+Ryu!;こんにちは!+👋;ラン龍一と申します;よろしくお願いします!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Ryu.;Welcome+to+my+GitHub.;こんにちは,+ラン龍一と申します。" alt="Typing Intro" />
 </h1>
 
-<h2 align="center">A software engineer(Backend & AI) dedicated to making an impact. </h3>
-<h3 align="center">M.S in Computer Science(AI) at USC </h2>
+<h3 align="center">Software Engineer – Backend • AI • Systems</h3>
+<h4 align="center">M.S. Computer Science (AI) @ USC • Passionate about building robust, scalable, and impactful software</h4>
 
-<br/>
-<div align="center"> 
+---
+
+## 🌐 Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/ryulun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-    <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  &nbsp;
+  <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
+</p>
 
- <hr/>
- 
-<h2 align="center">Languages/Frameworks/Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,mysql" /><br>
-    <img src="https://skillicons.dev/icons?i=react,flask,spring,html,css,tailwind,git,docker" /><br>
-</div>
-<br/><br/>
-<hr/>
-<br/>
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,c,cpp,mysql" /><br>
+  <img src="https://skillicons.dev/icons?i=spring,react,flask,html,css,tailwind,git,docker" />
+</p>
+
+---
+
+## 👤 About Me
+
+- 🛠 Backend engineer and builder focused on shipping secure, scalable software  
+- 💡 Creator of **MediSkinAI**, an AI-powered skin disease classifier with 91% accuracy  
+- 🚀 Founder of **DormDrop**, a subleasing platform tailored for USC students, launching soon  
+- 📊 Researched concurrency control protocols, improving 2PLSF performance under high-contention systems  
+- 🌍 International perspective — awarded a startup certification by the Shibuya City Government through Japan Venture Academy  
+- 🌱 Always growing — currently expanding into cybersecurity and distributed systems to build tech that scales globally
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | Full-stack AI web app for early skin cancer screening using ResNet50 trained on ISIC 2020. Achieved 91% accuracy in classifying lesions as benign or malignant. Deployed via Vercel + Render. | React, Vite, TailwindCSS, FastAPI, PyTorch |
+| **DormDrop** *(coming soon)* | A secure, USC-exclusive subleasing platform with verified listings, Stripe integration, and email-based authentication. | Java, Spring Boot, PostgreSQL, JWT, Docker |
+| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | Improved 2PLSF concurrency protocol using elastic reader-writer locks and timestamp tracking. Benchmarked via CCBench to maintain throughput under high contention. | C, C++, Systems Programming |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ryuichi-Yamafuji-Lun&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuichi-Yamafuji-Lun&theme=github-dark" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- End -->
