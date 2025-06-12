@@ -42,7 +42,7 @@
 - 💡 Creator of **MediSkinAI**, an AI-powered skin disease classifier with 91% accuracy  
 - 🚀 Founder of **DormDrop**, a subleasing platform tailored for USC students, launching soon  
 - 📊 Researched concurrency control protocols, improving 2PLSF performance under high-contention systems  
-- 🌍 International perspective — awarded a startup certification by the Shibuya City Government through Japan Venture Academy  
+- 🌍 International perspective — awarded a startup certification by the Shibuya City Government
 - 🌱 Always growing — currently expanding into cybersecurity and distributed systems to build tech that scales globally
 
 ---
