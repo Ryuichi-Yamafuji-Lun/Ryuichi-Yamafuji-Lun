@@ -43,6 +43,7 @@
 - 🚀 Founder of **DormDrop**, a subleasing platform tailored for USC students, launching soon  
 - 📊 Researched concurrency control protocols, improving 2PLSF performance under high-contention systems  
 - 🌍 International perspective — awarded a startup certification by the Shibuya City Government
+- 🎓 Keio University '24 & Punahou School '20 alumni with a cross-cultural tech background  
 - 🌱 Always growing — currently expanding into cybersecurity and distributed systems to build tech that scales globally
 
 ---
