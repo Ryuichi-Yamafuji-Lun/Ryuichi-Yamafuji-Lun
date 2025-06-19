@@ -53,7 +53,7 @@
 |--------|-------------|-------|
 | [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | Full-stack AI web app for early skin cancer screening using ResNet50 trained on ISIC 2020. Achieved 91% accuracy in classifying lesions as benign or malignant. Deployed via Vercel + Render. | React, Vite, TailwindCSS, FastAPI, PyTorch |
 | **DormDrop** *(coming soon)* | A secure, USC-exclusive subleasing platform with verified listings, Stripe integration, and email-based authentication. | Java, Spring Boot, PostgreSQL, JWT, Docker |
-| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | Improved 2PLSF concurrency protocol using elastic reader-writer locks and timestamp tracking. Benchmarked via CCBench to maintain throughput under high contention. | C, C++, Systems Programming |
+| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | Enhanced 2PLSF concurrency protocol with dynamic timestamp injection and elastic locks. Restored throughput from 0 to **610K TPS** under delayed workloads; maintained >**370K TPS** at scale. | C, C++, Systems Programming |
 
 ---
 
