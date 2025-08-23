@@ -49,7 +49,7 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**DormDrop**] | USC-exclusive subleasing platform. Features secure JWT/OAuth2 login, school-based search, Stripe transactions, and containerized backend for AWS deployment. Private repo available upon request.| Java, Spring Boot, PostgreSQL, Docker, AWS, React |
-| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | AI melanoma screening web app (91% accuracy). Built with a FastAPI backend for model inference, deployed on Vercel + Render. | Python, FastAPI, PyTorch, React, TailwindCSS |
+| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | AI melanoma screening web app (91% accuracy). Built with a FastAPI backend for model inference, deployed on Vercel + Google Cloud Run. | Python, FastAPI, PyTorch, React, TailwindCSS |
 | [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | Enhanced 2PLSF concurrency protocol with dynamic timestamp injection and elastic locks. Achieved **610K TPS** under delayed workloads. | C, C++, Systems Programming |
 
 ---
