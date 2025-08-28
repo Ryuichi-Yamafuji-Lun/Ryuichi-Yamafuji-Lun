@@ -36,7 +36,7 @@
 
 ## 👤 About Me
 - 🛠 Software Engineer with experience in backend systems, AI applications, and full-stack web development  
-- ☁️ Skilled in building **cloud-ready applications** using Java, Spring Boot, PostgreSQL, Docker, and AWS  
+- ☁️ Skilled in building **cloud-ready applications** using Java, Spring Boot, PostgreSQL, Docker, Google Cloud Run, and AWS  
 - 🤖 Developed **AI-powered tools** with PyTorch, FastAPI, and large-scale datasets  
 - 📊 Researched high-performance database systems, improving concurrency throughput to **610K TPS**  
 - 🚀 Creator of **DormDrop**, a USC-exclusive subleasing platform with secure transactions and geolocation search  
