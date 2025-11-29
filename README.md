@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">Software Engineer – Backend • AI • Full Stack</h3>
-<h4 align="center">M.S. Computer Science (AI) @ USC • Building robust, scalable, and impactful software</h4>
+<h4 align="center">M.S. Computer Science @ USC • Building robust, scalable, and impactful software</h4>
 
 ---
 
