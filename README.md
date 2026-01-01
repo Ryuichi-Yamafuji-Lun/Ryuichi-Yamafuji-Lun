@@ -3,18 +3,26 @@
 </h1>
 
 <h3 align="center">Software Engineer – Backend • AI • Systems</h3>
-<h4 align="center">M.S. Computer Science @ USC • Bridging the gap between AI models and high-performance infrastructure</h4>
+<h4 align="center">M.S. Computer Science @ USC</h4>
+
+<p align="center">
+  Bridging the gap between <b>AI models</b> and <b>high-performance infrastructure</b>.
+</p>
 
 ---
 
 ## 🌐 Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ryulun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
   <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+   &nbsp;
+  <a href="mailto:rlun@usc.edu">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -29,11 +37,11 @@
 ---
 
 ## 👤 About Me
-- 🔭 **Core Focus:** MSCS student at USC specializing in **Scalable Backend Systems**, **AI Agents**, and **High-Performance Computing**.
-- ⚙️ **Systems Engineering:** Experience optimizing concurrency protocols and database throughput in C++ (achieved **610K TPS**).
-- 🧠 **AI & ML:** Building and benchmarking intelligent systems using **LLM Agents**, **Reinforcement Learning (DQN)**, and **Computer Vision** pipelines.
-- ☁️ **Backend Architecture:** Skilled in deploying robust APIs and microservices using **FastAPI**, **Spring Boot**, and **Docker** on cloud platforms (AWS/GCP).
-- 🌍 **Bilingual Engineer:** Fluent in English and Japanese with experience navigating cross-cultural technical environments.
+- 🔭 **Core Focus:** Specializing in **Scalable Backend Systems**, **AI Agents**, and **HPC**.
+- ⚙️ **Systems Engineering:** Optimized concurrency protocols in C++, achieving **610K TPS** via elastic locking mechanisms.
+- 🧠 **AI & ML:** Benchmarking intelligent systems using **LLM Agents**, **RL (DQN)**, and **Computer Vision**.
+- ☁️ **Backend Architecture:** Deploying microservices with **FastAPI** & **Spring Boot** on AWS/GCP.
+- 🌍 **Bilingual Engineer:** Fluent in **English** and **Japanese**; experienced in cross-cultural technical environments.
 
 ---
 
@@ -41,9 +49,9 @@
 
 | Project | Description | Stack |
 |:---|:---|:---|
-| [**GenAI vs RL Tetris**](https://github.com/Ryuichi-Yamafuji-Lun/Tetris-Benchmark/tree/main) | **AI Agent Benchmarking.** Engineered a custom Gymnasium environment to benchmark LLM Agents (Gemini) against Deep Q-Networks. Implemented Chain-of-Thought (CoT) reasoning to reduce hallucinations, improving survival rates by **8.2%** against the RL baseline. | Python, Gymnasium, PyTorch, Gemini API, RL |
-| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | **High-Performance Database System.** Enhanced 2PLSF concurrency protocol with dynamic timestamp injection. Achieved **610K TPS** under delayed workloads through elastic locking mechanisms. | C, C++, Systems Programming |
-| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | **Medical Computer Vision.** Melanoma screening web app (**91% accuracy**) using a FastAPI backend for model inference on Cloud Run. | Python, FastAPI, PyTorch, React, Docker |
-| [**Right Source Auto**](https://rightsource808.com/) | **Production Freelance Platform.** Migrated a Hawaii dealership from Facebook Marketplace to a dedicated platform. Built a custom React frontend and integrated a headless Sanity CMS backend, managing the full-stack deployment. | React, TypeScript, Sanity CMS |
+| [**GenAI vs RL Tetris**](https://github.com/Ryuichi-Yamafuji-Lun/Tetris-Benchmark/tree/main) | **AI Agent Benchmarking.** Custom Gymnasium env comparing Gemini Agents vs. DQN. Implemented Chain-of-Thought (CoT) to improve survival rates by **8.2%** over baseline. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) |
+| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | **High-Performance DB.** Enhanced 2PLSF concurrency protocol. Achieved **610K TPS** under delayed workloads through dynamic timestamp injection. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Systems](https://img.shields.io/badge/Systems-4B8BBE?style=flat-square) |
+| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | **Medical Computer Vision.** Melanoma screening web app (**91% accuracy**) using a FastAPI backend for model inference on Cloud Run. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| [**Right Source Auto**](https://rightsource808.com/) | **Production Freelance Platform.** Migrated dealership from Facebook to custom platform. Built React frontend + Headless Sanity CMS backend. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white) |
 
 ---
