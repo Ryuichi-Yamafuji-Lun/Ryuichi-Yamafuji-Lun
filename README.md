@@ -44,7 +44,7 @@
 | [**GenAI vs RL Tetris**](https://github.com/Ryuichi-Yamafuji-Lun/Tetris-Benchmark/tree/main) | **AI Agent Benchmarking.** Engineered a custom Gymnasium environment to benchmark LLM Agents (Gemini) against Deep Q-Networks. Implemented Chain-of-Thought (CoT) reasoning to reduce hallucinations, improving survival rates by **8.2%** against the RL baseline. | Python, Gymnasium, PyTorch, Gemini API, RL |
 | [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | **High-Performance Database System.** Enhanced 2PLSF concurrency protocol with dynamic timestamp injection. Achieved **610K TPS** under delayed workloads through elastic locking mechanisms. | C, C++, Systems Programming |
 | [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | **Medical Computer Vision.** Melanoma screening web app (**91% accuracy**) using a FastAPI backend for model inference on Cloud Run. | Python, FastAPI, PyTorch, React, Docker |
-| [**Right Source Auto**](https://rightsource808.com/) | **Production Freelance Platform.** Replaced manual dealership workflows with a modern headless CMS solution, reducing content management time for the client. | React, TypeScript, Sanity CMS |
+| [**Right Source Auto**](https://rightsource808.com/) | **Production Freelance Platform.** Migrated a Hawaii dealership from Facebook Marketplace to a dedicated platform. Built a custom React frontend and integrated a headless Sanity CMS backend, managing the full-stack deployment. | React, TypeScript, Sanity CMS |
 
 ---
 
