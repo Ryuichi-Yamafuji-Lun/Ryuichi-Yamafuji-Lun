@@ -47,10 +47,3 @@
 | [**Right Source Auto**](https://rightsource808.com/) | **Production Freelance Platform.** Migrated a Hawaii dealership from Facebook Marketplace to a dedicated platform. Built a custom React frontend and integrated a headless Sanity CMS backend, managing the full-stack deployment. | React, TypeScript, Sanity CMS |
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ryuichi-Yamafuji-Lun&show_icons=true&theme=github_dark&hide_title=true&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuichi-Yamafuji-Lun&theme=github-dark" alt="GitHub Streak"/>
-</p>
