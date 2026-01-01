@@ -1,15 +1,9 @@
-<!-- Visitor Badge -->
-<p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ryuichi-Yamafuji-Lun.Ryuichi-Yamafuji-Lun" alt="Visitor Badge"/>
-</p>
-
-<!-- Typing Animation Intro -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Ryu.;Welcome+to+my+GitHub.;こんにちは,+ラン龍一と申します。" alt="Typing Intro" />
 </h1>
 
-<h3 align="center">Software Engineer – Backend • AI • Full Stack</h3>
-<h4 align="center">M.S. Computer Science @ USC • Building robust, scalable, and impactful software</h4>
+<h3 align="center">Software Engineer – Backend • AI • Systems</h3>
+<h4 align="center">M.S. Computer Science @ USC • Bridging the gap between AI models and high-performance infrastructure</h4>
 
 ---
 
@@ -28,30 +22,29 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,postgresql" /><br>
-  <img src="https://skillicons.dev/icons?i=spring,react,fastapi,tailwind,docker,aws,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,postgresql,javascript,typescript" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,fastapi,docker,aws,linux,spring,git,react" />
 </p>
 
 ---
 
 ## 👤 About Me
-- 🛠 Software Engineer with experience in backend systems, AI applications, and full-stack web development  
-- ☁️ Skilled in building **cloud-ready applications** using Java, Spring Boot, PostgreSQL, Docker, Google Cloud Run, and AWS  
-- 🤖 Developed **AI-powered tools** with PyTorch, FastAPI, and large-scale datasets  
-- 📊 Researched high-performance database systems, improving concurrency throughput to **610K TPS**  
-- 🚀 Creator of **DormDrop**, a USC-exclusive subleasing platform with secure transactions and geolocation search  
-- 🌍 Cross-cultural perspective — studied and worked in the US and Japan, bringing diverse problem-solving approaches  
+- 🔭 **Core Focus:** MSCS student at USC specializing in **Scalable Backend Systems**, **AI Agents**, and **High-Performance Computing**.
+- ⚙️ **Systems Engineering:** Experience optimizing concurrency protocols and database throughput in C++ (achieved **610K TPS**).
+- 🧠 **AI & ML:** Building and benchmarking intelligent systems using **LLM Agents**, **Reinforcement Learning (DQN)**, and **Computer Vision** pipelines.
+- ☁️ **Backend Architecture:** Skilled in deploying robust APIs and microservices using **FastAPI**, **Spring Boot**, and **Docker** on cloud platforms (AWS/GCP).
+- 🌍 **Bilingual Engineer:** Fluent in English and Japanese with experience navigating cross-cultural technical environments.
 
 ---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
-| [**DormDrop**] | USC-exclusive subleasing platform. Features secure JWT/OAuth2 login, school-based search, Stripe transactions, and a containerized backend for AWS deployment. Private repo available upon request.| Java, Spring Boot, PostgreSQL, Docker, AWS, React |
-| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | AI melanoma screening web app (91% accuracy). Built with a FastAPI backend for model inference, deployed on Vercel + Google Cloud Run. | Python, FastAPI, PyTorch, React, TailwindCSS |
-| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | Enhanced 2PLSF concurrency protocol with dynamic timestamp injection and elastic locks. Achieved **610K TPS** under delayed workloads. | C, C++, Systems Programming |
-| [**Right Source Auto**](https://rightsource808.com/) | Freelance engagement for a local dealership. Collaborated directly with the business owner to translate requirements into a custom production platform, replacing manual workflows with a modern React + Sanity CMS solution. | React, TypeScript, Sanity CMS |
+|:---|:---|:---|
+| [**GenAI vs RL Tetris**](https://github.com/Ryuichi-Yamafuji-Lun/Tetris-Benchmark/tree/main) | **AI Agent Benchmarking.** Engineered a custom Gymnasium environment to benchmark LLM Agents (Gemini) against Deep Q-Networks. Implemented Chain-of-Thought (CoT) reasoning to reduce hallucinations, improving survival rates by **8.2%** against the RL baseline. | Python, Gymnasium, PyTorch, Gemini API, RL |
+| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | **High-Performance Database System.** Enhanced 2PLSF concurrency protocol with dynamic timestamp injection. Achieved **610K TPS** under delayed workloads through elastic locking mechanisms. | C, C++, Systems Programming |
+| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | **Medical Computer Vision.** Melanoma screening web app (**91% accuracy**) using a FastAPI backend for model inference on Cloud Run. | Python, FastAPI, PyTorch, React, Docker |
+| [**Right Source Auto**](https://rightsource808.com/) | **Production Freelance Platform.** Replaced manual dealership workflows with a modern headless CMS solution, reducing content management time for the client. | React, TypeScript, Sanity CMS |
 
 ---
 
@@ -61,5 +54,3 @@
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuichi-Yamafuji-Lun&theme=github-dark" alt="GitHub Streak"/>
 </p>
-
----
