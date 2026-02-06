@@ -20,6 +20,10 @@
   <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+     &nbsp;
+  <a href="https://scholar.google.com/citations?user=oITHaT0AAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
    &nbsp;
   <a href="mailto:rlun@usc.edu">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
