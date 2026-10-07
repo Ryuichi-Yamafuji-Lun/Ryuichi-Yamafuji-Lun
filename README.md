@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&color=B48CFF&lines=Hi,+I'm+Ryu.;Welcome+to+my+GitHub.;こんにちは,+ラン龍一と申します。" alt="Typing Intro" />
 </h1>
 
-<h3 align="center">Software Engineer · AI Agents & Backend</h3>
+<h3 align="center">AI Engineer & Backend Engineer</h3>
 <h4 align="center">M.S. Computer Science @ University of Southern California (Dec 2026)</h4>
 
 <p align="center">
@@ -51,7 +51,7 @@
 ---
 
 ## 👤 About Me
-- 🤖 **AI agents in production:** At Rakuten I built LLM cost monitoring on self-hosted Claude Managed Agents, metering spend against real usage data from a 10,000+ employee tenant, and rolled out AI code review to every pull request in the team's CI pipeline.
+- 🤖 **AI agents in production:** At Rakuten I built LLM cost monitoring on self-hosted Claude Managed Agents, metering spend against real usage data from a 10,000+ employee tenant, built a human-gated outreach path where each workspace runs in its own job so no tenant's data enters another's context, and rolled out AI code review to every pull request in the team's CI pipeline.
 - ⚙️ **Backend and systems:** Concurrency control in C++ for main-memory databases, and duplicate-free message processing across concurrent cloud jobs.
 - 🔐 **Research:** Securing the messages LLM agents send each other (MIRROR, NeurIPS 2026 FLMSec Workshop, [paper on arXiv](https://arxiv.org/abs/2610.02349)).
 - 🌍 **Bilingual:** Fluent in **English** and **Japanese**. Born in São Paulo, raised in Honolulu, studied in Tokyo, now in Los Angeles.
