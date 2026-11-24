@@ -1,64 +1,85 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&color=B48CFF&lines=Hi,+I'm+Ryu.;Welcome+to+my+GitHub.;こんにちは,+ラン龍一と申します。" alt="Typing Intro" />
-</h1>
-
-<h3 align="center">AI Engineer & Backend Engineer</h3>
-<h4 align="center">M.S. Computer Science @ University of Southern California (Dec 2026)</h4>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Hi, I'm Ryu. I build AI agent systems and the backend infrastructure that keeps them fast and reliable." src="assets/banner-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  I build <b>AI agent systems</b> and the <b>backend infrastructure</b> that keeps them fast and reliable.
+  <a href="https://www.linkedin.com/in/ryulun/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-9b6bff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ryuichi.y.lun@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email_me-9b6bff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2b2540?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://docs.google.com/document/d/1LsHdHDT1QlYNuUpqcHDuX9iiHpufoeJY6G4o7vQz6IA/edit?usp=sharing"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-2b2540?style=for-the-badge&logo=googledocs&logoColor=white"></a>
+  <a href="https://scholar.google.com/citations?user=oITHaT0AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-2b2540?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open_to-Connect-4ade80?style=flat-square" alt="Open to connect"/>
-  <img src="https://img.shields.io/badge/Graduating-Dec_2026-9b6bff?style=flat-square" alt="Graduating Dec 2026"/>
-  <img src="https://img.shields.io/badge/Full--time_role-Starting_Feb_2027-f59e0b?style=flat-square" alt="Full-time role starting Feb 2027"/>
-  <img src="https://img.shields.io/badge/U.S.-Permanent_Resident-60a5fa?style=flat-square" alt="U.S. Permanent Resident"/>
+  <sub>🟢 Open to connect &nbsp;·&nbsp; 🎓 M.S. CS @ USC, Dec 2026 &nbsp;·&nbsp; 💼 Full-time SWE role from Feb 2027 &nbsp;·&nbsp; U.S. Permanent Resident</sub>
 </p>
 
----
+I'm a software engineer finishing my M.S. in Computer Science at USC. I build AI agents and the backend systems around them. This summer at Rakuten in Tokyo, I built LLM cost monitoring on self-hosted Claude Managed Agents and rolled out AI code review to every pull request in my team's CI pipeline. Before that, I spent two and a half years on concurrency control for main-memory databases at Keio.
 
-## 🌐 Connect
-<p align="center">
-  <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ryulun/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://docs.google.com/document/d/1LsHdHDT1QlYNuUpqcHDuX9iiHpufoeJY6G4o7vQz6IA/edit?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Résumé-View-111827?style=for-the-badge&logo=googledocs&logoColor=white" alt="Résumé"/>
-  </a>
-  &nbsp;
-  <a href="https://scholar.google.com/citations?user=oITHaT0AAAAJ&hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
-  </a>
-  &nbsp;
-  <a href="mailto:ryuichi.y.lun@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+> **📍 At NeurIPS in Paris?** I'm presenting **MIRROR** at the FLMSec workshop poster session on **Sunday, December 13**. Come by and say hi. [Read the paper](https://arxiv.org/abs/2610.02349)
 
----
+## 💬 Let's talk
 
-## 🛠 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,java,postgresql,mongodb,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=pytorch,fastapi,react,docker,azure,gcp,aws,githubactions" />
-</p>
+I'm always happy to trade notes. If any of these overlap with what you're working on, send me a message.
 
----
+- **LLM agents in production:** cost metering, tenant isolation, and AI code review in CI
+- **Multi-agent security:** keeping the messages agents send each other from being tampered with
+- **Database internals:** concurrency control, locking, and contention on many-core machines
+- **Engineering between Japan and the US:** internships in Tokyo, studying in both countries, working bilingually. 日本語でもお気軽にどうぞ。
 
-## 👤 About Me
-- 🤖 **AI agents in production:** At Rakuten I built LLM cost monitoring on self-hosted Claude Managed Agents, metering spend against real usage data from a 10,000+ employee tenant, built a human-gated outreach path where each workspace runs in its own job so no tenant's data enters another's context, and rolled out AI code review to every pull request in the team's CI pipeline.
-- ⚙️ **Backend and systems:** Concurrency control in C++ for main-memory databases, and duplicate-free message processing across concurrent cloud jobs.
-- 🔐 **Research:** Securing the messages LLM agents send each other (MIRROR, FLMSec Workshop @ NeurIPS 2026, [paper on arXiv](https://arxiv.org/abs/2610.02349)).
-- 🌍 **Bilingual:** Fluent in **English** and **Japanese**. Born in São Paulo, raised in Honolulu, studied in Tokyo, now in Los Angeles.
-- 📍 **Next:** Presenting MIRROR as a poster at the FLMSec workshop in Paris on December 13, then starting a full-time software engineering role in February 2027.
+## ⚡ Highlights
 
----
+<table>
+  <tr>
+    <td align="center" width="25%"><h3>10,000+</h3><sub>employee tenant metered for LLM spend<br><b>Rakuten</b></sub></td>
+    <td align="center" width="25%"><h3>100%</h3><sub>of pull requests get AI code review<br><b>Rakuten</b></sub></td>
+    <td align="center" width="25%"><h3>0 → 500K+</h3><sub>transactions/sec restored under multicore contention<br><b>FafnirDT</b></sub></td>
+    <td align="center" width="25%"><h3>33,126</h3><sub>dermoscopy images, 56:1 class imbalance<br><b>MediSkinAI</b></sub></td>
+  </tr>
+</table>
+
+## 🚀 Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### [MIRROR](https://arxiv.org/abs/2610.02349)
+Multipath quorum integrity for LLM multi-agent communication. Each message travels over several independent routes and is accepted only when a majority agree, with no extra LLM calls. Evaluated on AutoGen and CAMEL.
+
+<sub>First author, led a 4-person team · FLMSec Workshop @ NeurIPS 2026 · [Paper](https://arxiv.org/abs/2610.02349) · [Code](https://github.com/highphysicist/MIRROR-defense-for-aitm-mas)</sub>
+
+</td>
+    <td width="50%" valign="top">
+
+#### [FafnirDT](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT)
+Concurrency control for main-memory databases. Replaced fixed-size thread structures in 2PL with an elastic reader-writer lock and a dynamic timestamp tracker, restoring throughput under heavy multicore contention.
+
+<sub>First author · 163rd System Software & OS Symposium (2024) · C++ · Linux</sub>
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+#### [MediSkinAI](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI)
+Melanoma screening agent. A fine-tuned ResNet50 flags lesions, and a LangGraph agent explains each result in plain language through a Gemini reasoning step. Ran on FastAPI and Google Cloud Run with 27+ early users.
+
+<sub>PyTorch · LangGraph · FastAPI · Cloud Run · live site now retired</sub>
+
+</td>
+    <td width="50%" valign="top">
+
+#### [GenAI vs RL Tetris](https://github.com/Ryuichi-Yamafuji-Lun/Tetris-Benchmark)
+AI agent benchmarking. A custom Gymnasium interface lets Gemini and GPT models play Tetris head-to-head against a Deep Q-Network baseline. A Chain-of-Thought module improved survival by 8.2%.
+
+<sub>Python · Gemini API · OpenAI API · DQN</sub>
+
+</td>
+  </tr>
+</table>
 
 ## 💼 Experience
 
@@ -69,24 +90,20 @@
 | **Systems Research Engineer (Student)** | Data Platform Laboratory, Keio Research Institute (with Mitsubishi UFJ Information Technology) | Mar 2022 – Sep 2024 |
 | **Research Engineer Intern** | Japan Science and Technology Agency (JST) · Tokyo | Aug – Sep 2023 |
 
----
+## 🛠 Tools I use
+
+<p align="left">
+  <img alt="Python, C++, TypeScript, Java, PostgreSQL, MongoDB, Linux, PyTorch, FastAPI, React, Docker, Azure, GCP, AWS, GitHub Actions" src="https://skillicons.dev/icons?i=python,cpp,typescript,java,postgresql,mongodb,linux,pytorch,fastapi,react,docker,azure,gcp,aws,githubactions&perline=8">
+</p>
 
 ## 🎓 Education
 
-| Degree | School | When |
-|:---|:---|:---|
-| **M.S. Computer Science** | University of Southern California | Dec 2026 |
-| **B.A. Environment & Information Studies (Business & CS)** | Keio University | Sep 2024 |
-
-🏆 Outstanding Graduation Project Award (Keio, 2024, one of 12 recipients) · 1999 Mita-kai Scholarship (Keio, 2024, merit-based)
+**M.S. Computer Science**, University of Southern California · Dec 2026<br>
+**B.A. Environment & Information Studies (Business & CS)**, Keio University · Sep 2024<br>
+<sub>🏆 Outstanding Graduation Project Award (one of 12 recipients) · 1999 Mita-kai Scholarship (merit-based)</sub>
 
 ---
 
-## 🚀 Featured Projects & Research
-
-| Project / Research | Description | Stack |
-|:---|:---|:---|
-| [**MIRROR**](https://github.com/highphysicist/MIRROR-defense-for-aitm-mas) | **Multipath Quorum Integrity for LLM Multi-Agent Communication.** First author, led a 4-person team. FLMSec Workshop @ NeurIPS 2026 (accepted, poster in Paris on Dec 13). [Paper (arXiv)](https://arxiv.org/abs/2610.02349) Protects messages between LLM agents from an intermediary that can read and rewrite them: each message travels over several independent routes and is accepted only when a majority agree, with no extra LLM calls. Evaluated on AutoGen and CAMEL. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Agents](https://img.shields.io/badge/LLM-Multi--Agent-blue?style=flat-square) ![Security](https://img.shields.io/badge/Agent-Security-red?style=flat-square) |
-| [**FafnirDT**](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT) | **Concurrency Control for Main-Memory Databases.** First author, 163rd System Software & OS Symposium (2024). Replaced fixed-size thread structures in 2PL with an elastic reader-writer lock and dynamic timestamp tracker, restoring throughput from **0 to 500,000+ transactions/sec** under heavy multicore contention. | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Systems](https://img.shields.io/badge/Symposium-2024-green?style=flat-square) |
-| [**MediSkinAI**](https://github.com/Ryuichi-Yamafuji-Lun/MediSkinAI) | **Melanoma Screening Agent.** Fine-tuned ResNet50 on 33,126 ISIC 2020 images (56:1 class imbalance), with a LangGraph agent that explains each result in plain language through a Gemini reasoning step. Ran on FastAPI and Google Cloud Run with 27+ early users (live site now retired). | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-Agent-gray?style=flat-square) |
-| [**GenAI vs RL Tetris**](https://github.com/Ryuichi-Yamafuji-Lun/Tetris-Benchmark/tree/main) | **AI Agent Benchmarking.** Custom Gymnasium interface that lets Gemini and GPT models play Tetris head-to-head against a Deep Q-Network baseline. A Chain-of-Thought module improved survival by 8.2%. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![RL](https://img.shields.io/badge/RL-DQN-orange?style=flat-square) |
+<p align="center">
+  <sub>Thanks for stopping by. The fastest way to reach me is <a href="https://www.linkedin.com/in/ryulun/">LinkedIn</a> or <a href="mailto:ryuichi.y.lun@gmail.com">email</a>.</sub>
+</p>
