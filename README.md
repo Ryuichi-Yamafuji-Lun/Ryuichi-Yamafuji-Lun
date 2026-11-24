@@ -27,7 +27,6 @@ I'm always happy to trade notes. If any of these overlap with what you're workin
 - **LLM agents in production:** cost metering, tenant isolation, and AI code review in CI
 - **Multi-agent security:** keeping the messages agents send each other from being tampered with
 - **Database internals:** concurrency control, locking, and contention on many-core machines
-- **Engineering between Japan and the US:** internships in Tokyo, studying in both countries, working bilingually. 日本語でもお気軽にどうぞ。
 
 ## ⚡ Highlights
 
