@@ -56,7 +56,7 @@ Multipath quorum integrity for LLM multi-agent communication. Each message trave
 #### [FafnirDT](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT)
 Concurrency control for main-memory databases. Replaced fixed-size thread structures in 2PL with an elastic reader-writer lock and a dynamic timestamp tracker, restoring throughput under heavy multicore contention.
 
-<sub>First author · 163rd System Software & OS Symposium (2024) · C++ · Linux</sub>
+<sub>First author · 163rd System Software & OS Symposium (2024) · C++ · Linux · [Paper](https://ipsj.ixsq.nii.ac.jp/records/234364) · [Code](https://github.com/Ryuichi-Yamafuji-Lun/FafnirDT)</sub>
 
 </td>
   </tr>
