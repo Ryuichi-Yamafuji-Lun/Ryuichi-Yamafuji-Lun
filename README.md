@@ -34,7 +34,7 @@ I'm always happy to trade notes. If any of these overlap with what you're workin
 <table>
   <tr>
     <td align="center" valign="top" width="25%"><h3>10,000+</h3><sub>employee tenant metered for LLM spend<br><b>Rakuten</b></sub></td>
-    <td align="center" valign="top" width="25%"><h3>100%</h3><sub>of pull requests get AI code review<br><b>Rakuten</b></sub></td>
+    <td align="center" valign="top" width="25%"><h3>1× vs 35×</h3><sub>LLM token cost vs an LLM-judge defense<br><b>MIRROR</b></sub></td>
     <td align="center" valign="top" width="25%"><h3>0 → 500K+</h3><sub>transactions/sec restored under multicore contention<br><b>FafnirDT</b></sub></td>
     <td align="center" valign="top" width="25%"><h3>33,126</h3><sub>dermoscopy images, 56:1 class imbalance<br><b>MediSkinAI</b></sub></td>
   </tr>
