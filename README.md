@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <sub>🟢 Open to connect &nbsp;·&nbsp; 🎓 M.S. CS @ USC, Dec 2026 &nbsp;·&nbsp; 💼 Incoming at Capital One, Feb 2027 &nbsp;·&nbsp; U.S. Permanent Resident</sub>
+  <sub>🟢 Open to connect &nbsp;·&nbsp; 🎓 M.S. CS @ USC, Dec 2026 &nbsp;·&nbsp; 💼 Incoming SWE @ Capital One, Feb 2027 &nbsp;·&nbsp; U.S. Permanent Resident</sub>
 </p>
 
-I'm a software engineer finishing my M.S. in Computer Science at USC, and in February 2027 I'm joining Capital One as an Associate in the Technology Development Program in Richmond, VA. I build AI agents and the backend systems around them. This summer at Rakuten in Tokyo, I built LLM cost monitoring on self-hosted Claude Managed Agents and rolled out AI code review to every pull request in my team's CI pipeline. Before that, I spent two and a half years on concurrency control for main-memory databases at Keio.
+I'm a software engineer finishing my M.S. in Computer Science at USC, and in February 2027 I'm joining Capital One as a software engineer in Richmond, VA. I build AI agents and the backend systems around them. This summer at Rakuten in Tokyo, I built LLM cost monitoring on self-hosted Claude Managed Agents and rolled out AI code review to every pull request in my team's CI pipeline. Before that, I spent two and a half years on concurrency control for main-memory databases at Keio.
 
 > **📍 At NeurIPS in Paris?** I'm presenting **MIRROR** at the FLMSec workshop poster session on **Sunday, December 13**. Come by and say hi. [Read the paper](https://arxiv.org/abs/2610.02349)
 
@@ -85,7 +85,7 @@ AI agent benchmarking. A custom Gymnasium interface lets Gemini and GPT models p
 
 | Role | Where | When |
 |:---|:---|:---|
-| **Associate, Technology Development Program** | Capital One · Richmond, VA | Starting&nbsp;Feb&nbsp;2027 |
+| **Software Engineer** | Capital One · Richmond, VA | Starting&nbsp;Feb&nbsp;2027 |
 | **AI Engineer Intern** | Rakuten Group (Rakuten AI), Red Queen Team, AI for Business CoE · Tokyo | May&nbsp;–&nbsp;Aug&nbsp;2026 |
 | **Software Engineer Intern** | Tomorrow's AI · Remote | Oct&nbsp;2024&nbsp;–&nbsp;Oct&nbsp;2025 |
 | **Systems Research Engineer (Student)** | Data Platform Laboratory, Keio Research Institute (with Mitsubishi UFJ Information Technology) | Mar&nbsp;2022&nbsp;–&nbsp;Sep&nbsp;2024 |
