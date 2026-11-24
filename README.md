@@ -5,9 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ryulun/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-9b6bff?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ryulun/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-9b6bff?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B"></a>
   <a href="mailto:ryuichi.y.lun@gmail.com"><img alt="Email me" src="https://img.shields.io/badge/Email_me-9b6bff?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2b2540?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="https://ryuichi-yamafuji-lun.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2b2540?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMiAxMmgyME0xMiAyYTE1LjMgMTUuMyAwIDAgMSA0IDEwIDE1LjMgMTUuMyAwIDAgMS00IDEwIDE1LjMgMTUuMyAwIDAgMS00LTEwIDE1LjMgMTUuMyAwIDAgMSA0LTEweiIvPjwvc3ZnPg%3D%3D"></a>
   <a href="https://docs.google.com/document/d/1LsHdHDT1QlYNuUpqcHDuX9iiHpufoeJY6G4o7vQz6IA/edit?usp=sharing"><img alt="Résumé" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-2b2540?style=for-the-badge&logo=googledocs&logoColor=white"></a>
   <a href="https://scholar.google.com/citations?user=oITHaT0AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google_Scholar-2b2540?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
 </p>
@@ -33,10 +33,10 @@ I'm always happy to trade notes. If any of these overlap with what you're workin
 
 <table>
   <tr>
-    <td align="center" width="25%"><h3>10,000+</h3><sub>employee tenant metered for LLM spend<br><b>Rakuten</b></sub></td>
-    <td align="center" width="25%"><h3>100%</h3><sub>of pull requests get AI code review<br><b>Rakuten</b></sub></td>
-    <td align="center" width="25%"><h3>0 → 500K+</h3><sub>transactions/sec restored under multicore contention<br><b>FafnirDT</b></sub></td>
-    <td align="center" width="25%"><h3>33,126</h3><sub>dermoscopy images, 56:1 class imbalance<br><b>MediSkinAI</b></sub></td>
+    <td align="center" valign="top" width="25%"><h3>10,000+</h3><sub>employee tenant metered for LLM spend<br><b>Rakuten</b></sub></td>
+    <td align="center" valign="top" width="25%"><h3>100%</h3><sub>of pull requests get AI code review<br><b>Rakuten</b></sub></td>
+    <td align="center" valign="top" width="25%"><h3>0 → 500K+</h3><sub>transactions/sec restored under multicore contention<br><b>FafnirDT</b></sub></td>
+    <td align="center" valign="top" width="25%"><h3>33,126</h3><sub>dermoscopy images, 56:1 class imbalance<br><b>MediSkinAI</b></sub></td>
   </tr>
 </table>
 
@@ -85,10 +85,10 @@ AI agent benchmarking. A custom Gymnasium interface lets Gemini and GPT models p
 
 | Role | Where | When |
 |:---|:---|:---|
-| **AI Engineer Intern** | Rakuten Group (Rakuten AI), Red Queen Team, AI for Business CoE · Tokyo | May – Aug 2026 |
-| **Software Engineer Intern** | Tomorrow's AI · Remote | Oct 2024 – Oct 2025 |
-| **Systems Research Engineer (Student)** | Data Platform Laboratory, Keio Research Institute (with Mitsubishi UFJ Information Technology) | Mar 2022 – Sep 2024 |
-| **Research Engineer Intern** | Japan Science and Technology Agency (JST) · Tokyo | Aug – Sep 2023 |
+| **AI Engineer Intern** | Rakuten Group (Rakuten AI), Red Queen Team, AI for Business CoE · Tokyo | May&nbsp;–&nbsp;Aug&nbsp;2026 |
+| **Software Engineer Intern** | Tomorrow's AI · Remote | Oct&nbsp;2024&nbsp;–&nbsp;Oct&nbsp;2025 |
+| **Systems Research Engineer (Student)** | Data Platform Laboratory, Keio Research Institute (with Mitsubishi UFJ Information Technology) | Mar&nbsp;2022&nbsp;–&nbsp;Sep&nbsp;2024 |
+| **Research Engineer Intern** | Japan Science and Technology Agency (JST) · Tokyo | Aug&nbsp;–&nbsp;Sep&nbsp;2023 |
 
 ## 🛠 Tools I use
 
